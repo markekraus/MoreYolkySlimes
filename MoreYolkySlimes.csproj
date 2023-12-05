@@ -33,5 +33,9 @@
             <HintPath>..\..\MelonLoader\Il2CppAssemblies\UnityEngine.CoreModule.dll</HintPath>
             <Private>False</Private>
         </Reference>
+        <Reference Include="0Harmony">
+            <HintPath>..\..\MelonLoader\net6\0Harmony.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
     </ItemGroup>
 </Project>
